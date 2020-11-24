@@ -1,1 +1,1 @@
-![Rendered](rendered.gif)
+![Rendered](rendered.png)
