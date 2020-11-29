@@ -1,0 +1,11 @@
+asphalt texture:
+https://cc0textures.com/view?id=Road007
+
+diep.io reference:
+https://diep.io/, sandbox mode, lvl 45 tank
+
+ubuntu font:
+https://fonts.google.com/specimen/Ubuntu?sidebar.open=true&selection.family=Ubuntu:wght@700
+
+compress png:
+https://cloudconvert.com/compress-png
