@@ -1,0 +1,12 @@
+used tn_coin as a template
+
+curved text reference:
+https://suncatcherstudio.com/text-in-circle/
+
+diep tank reference:
+https://static.diep.io/favicon-96x96.png
+
+gif compression:
+https://ezgif.com/optimize
+
+Design primarily inspired by Diepcord's TokenBot

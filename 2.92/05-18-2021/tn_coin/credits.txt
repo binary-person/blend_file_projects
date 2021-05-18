@@ -1,0 +1,5 @@
+tn.png:
+https://text.imageonline.co/
+
+hdri:
+https://hdrihaven.com/hdri/?c=outdoor&h=wide_street_02
